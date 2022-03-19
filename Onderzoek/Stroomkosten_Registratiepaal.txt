@@ -1,0 +1,13 @@
+Ruwe Berekening Stroomkosten Incheckpaal:
+
+Stroomadapter om 'Raspberry Pi 3 Model B v1.2' van voeding te voorzien levert: 2500mA DC 5V.
+Meestal verbuikt de Raspberry Pi niet de volledige capaciteit van de voeding, 
+maar om de maximale kosten te berekenen gebruiken we de maximale voedingscapaciteit.
+
+5V x 2,5A = 12,5 Watt aan stroom.
+
+De huidige (17-12-2021) kWh prijs is gemiddeld €0,22 in Nederland. (https://www.pricewise.nl/energieprijzen/kwh-prijs/)
+Dus 0,0125kW x 12uur x 365dagen x 0,22 = maximaal €12,05 / jaar / incheckpaal voor een gebruik van 12 uur per dag. 
+Omdat de Raspberry Pi bijna nooit zoveel stroom vraagt en omdat er geen rekening is gehouden met weekenden en vakanties, 
+zal het daadwerkelijke bedrag nog lager uitkomen.
+ 

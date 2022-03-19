@@ -1,0 +1,16 @@
+Voor dit Project kan er geen mechatronisch ontwerp worden gemaakt. 
+Dit ontwerp kan niet worden gemaakt omdat er in ons eindproduct geen mechanica voorkomt. 
+Er zitten geen bewegende onderdelen in ons systeem.
+
+Voorbeeld: Bepaalde machines voeren bewerkingen uit op producten en grondstoffen. 
+Deze bewerking wordt doormiddel van een besturingssysteem (computer) geregeld. 
+Bij deze besturing komt software en besturingstechniek aan de orde.
+
+Zoals gezegd komen er bij het eindproduct (prototype) van dit project geen machines voor die 
+bepaalde mechnanische acties uitvoeren. 
+Er kan dus ook geen mechatronisch ontwerp worden gemaakt.
+
+Stel dat er in een toekomstige versie van het huidige product wel iets van bijvoorbeeld een motor 
+komt die iets aanstuurt, dan kan er wel een mechatronisch ontwerp worden gemaakt. 
+
+Wel is er voor het huidige (21-01-2022) product een 3D ontwerp gemaakt.
